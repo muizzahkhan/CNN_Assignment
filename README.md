@@ -2,9 +2,13 @@
 
 This repository contains code for Image Classification using Alexnet in CNN.
 Major libraries used in this project are: 
-  a. Keras
-  b. Numpy
-  c. Matplotlib
+ 
+ a. Keras
+ 
+ b. Numpy
+  
+ c. Matplotlib
+ 
 Keras is an open-source python library built on tensorflow, which provides easy to use APIs for creating and learning deep learning models.
 Numpy is used for image pre-processing.
 Matplotlib is used to visualize the input and outputs.

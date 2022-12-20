@@ -1,6 +1,6 @@
-# Image Classification Using AlexNet Convolutional Neural Network
+# Image Classification Using Convolutional Neural Network
 
-This repository contains code for Image Classification using Alexnet in CNN.
+This repository contains code for Image Classification using CNN.
 Major libraries used in this project are: 
  
  a. Keras

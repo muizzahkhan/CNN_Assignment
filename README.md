@@ -23,3 +23,9 @@ After training our model, the accuracy and loss is as follows:
 ![image](https://user-images.githubusercontent.com/57839737/208718047-392b4981-d3b8-4d83-9a22-17bee132baa0.png)
 
 ![image](https://user-images.githubusercontent.com/57839737/208718425-0d7cf47b-e22f-4781-bb0f-fc3261ff4532.png)
+
+After Data Augmentation:
+
+![image](https://user-images.githubusercontent.com/57839737/208725657-06f6128b-0671-4527-bc32-6b5c618fd50d.png)
+
+![image](https://user-images.githubusercontent.com/57839737/208725712-c0f1fccd-e7ac-4d36-a2ce-d06627efa888.png)

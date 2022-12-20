@@ -18,13 +18,8 @@ The image dataset of natural scenes around the world consist of 25k images of (1
 
  ![image](https://user-images.githubusercontent.com/57839737/208718159-65d6c064-7ba6-4756-b9f8-efbfc975fa5d.png)
 
-After training our model, the accuracy and loss is as follows:
+After data augmentation and training our model, the accuracy and loss is as follows:
 
-![image](https://user-images.githubusercontent.com/57839737/208718047-392b4981-d3b8-4d83-9a22-17bee132baa0.png)
-
-![image](https://user-images.githubusercontent.com/57839737/208718425-0d7cf47b-e22f-4781-bb0f-fc3261ff4532.png)
-
-After Data Augmentation:
 
 ![image](https://user-images.githubusercontent.com/57839737/208725657-06f6128b-0671-4527-bc32-6b5c618fd50d.png)
 
